@@ -1,16 +1,152 @@
-# React + Vite
+# 💼 Ashwini Naik - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my skills, projects, education, certifications, and journey as a Full Stack Developer.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 Portfolio: [https://ashwini-naik-portfolio.netlify.app/]
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About The Project
 
-## Expanding the ESLint configuration
+This portfolio website represents my technical skills, academic background, certifications, and projects. It is designed with a clean and responsive user interface to provide recruiters and visitors with an overview of my experience and development journey.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The website includes interactive sections, project showcases, certificate previews, and a resume viewer for a better user experience.
+
+---
+
+## ✨ Features
+
+- Responsive portfolio design
+- Modern dark-themed UI
+- Hero section with introduction
+- About me section
+- Education timeline
+- Technical skills showcase
+- Project showcase
+- Certificate preview popup
+- Resume preview popup
+- Contact section
+- Social media integration
+- Smooth navigation between sections
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+
+### Libraries
+- React Icons
+
+### Tools
+- Git & GitHub
+- VS Code
+- Netlify (Deployment)
+
+---
+
+# 🚀Featured Projects 
+
+## 🌍 TravelShare
+
+A full-stack MERN application that allows users to share travel experiences, upload images, explore destinations, and interact with other travelers.
+
+### Features:
+- User authentication
+- Create, update and delete travel posts
+- Image uploads
+- Like functionality
+- Interactive maps
+- Responsive design
+
+### Technologies:
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT
+
+---
+
+## 🏢 PRISM - Hostel Complaint Management System
+
+A web-based complaint management platform that helps students submit and track hostel maintenance complaints while enabling wardens to manage and resolve issues efficiently.
+
+### Features:
+- Student login
+- Complaint registration
+- Complaint tracking
+- Complaint escalation after 3 days
+- Warden management dashboard
+
+### Technologies:
+- React.js
+- Node.js
+- Express.js
+- MySQL
+
+---
+
+## 🛕 Vishnumurthy Heritage Portal
+
+A responsive tourism website created to showcase cultural heritage, festivals, and important locations related to Vishnumurthy.
+
+### Features:
+- Responsive design
+- Information sections
+- Interactive UI
+
+### Technologies:
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🎮 Tic Tac Toe
+
+A React-based interactive game demonstrating component-based development and state management.
+
+### Features:
+- Two-player gameplay
+- Winner detection
+- Draw detection
+- Restart functionality
+- Responsive design
+
+### Technologies:
+- React.js
+- JavaScript
+- CSS
+
+---
+
+# 📬 Contact
+
+**Ashwini Naik**
+
+📧 Email:
+naik999ashwini@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/ashwini-naik999
+
+🐙 GitHub:
+https://github.com/AshwiniNaik04
+
+---
+
+## ⭐ Acknowledgement
+
+Built with React.js and a passion for creating clean, responsive, and user-friendly web applications.
+
+---
+
+⭐ If you like this project, consider giving it a star!
