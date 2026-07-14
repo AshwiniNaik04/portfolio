@@ -1,0 +1,133 @@
+.certifications {
+    padding: 100px 8%;
+    background: #08121f;
+    text-align: center;
+}
+
+.category-title {
+    color: white;
+    font-size: 28px;
+    margin: 50px 0 30px;
+}
+
+.certificate-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    gap: 25px;
+}
+
+.certificate-card {
+    background: #0F172A;
+    padding: 30px;
+    border-radius: 20px;
+    border: 1px solid rgba(59, 130, 246, 0.25);
+    transition: all 0.3s ease;
+}
+
+.certificate-card:hover {
+    transform: translateY(-8px);
+    border-color: #3B82F6;
+    box-shadow: 0 10px 25px rgba(59, 130, 246, 0.25);
+}
+
+.company-logo {
+    width: 120px;
+    height: 50px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.certificate-icon {
+    width: 65px;
+    height: 65px;
+    margin: auto;
+    border-radius: 50%;
+    background: #2563EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.view-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 20px;
+    padding: 10px 22px;
+    background: #1E293B;
+    color: #E2E8F0;
+    text-decoration: none;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.view-btn:hover {
+    background: #334155;
+    border-color: #3B82F6;
+    color: white;
+    transform: translateY(-2px);
+}
+
+.certificate-card h4 {
+    color: white;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.certificate-card p {
+    color: #CBD5E1;
+    margin-bottom: 10px;
+}
+
+.certificate-card span {
+    color: #94A3B8;
+    font-size: 14px;
+}
+
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(4px);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    z-index: 1000;
+}
+
+.modal-content {
+    position: relative;
+    background: #0F172A;
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 850px;
+    width: 90%;
+}
+
+.modal-image {
+    width: 100%;
+    max-height: 80vh;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+.close-btn {
+    position: absolute;
+    top: 12px;
+    right: 15px;
+
+    border: none;
+    background: transparent;
+
+    color: white;
+    font-size: 28px;
+    cursor: pointer;
+}
